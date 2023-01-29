@@ -24,3 +24,20 @@ Convertar chats em txt do whatsapp para jsonl, para treinar sua inteligencia art
 - Execute os comandos que estao na colab, em ordem, se tudo correr bem, a openai ira estar treinando a ia, com base no chat fornecido!
 - NÃO ESQUEÇA DE FORNECER A SUA APIKEY DA OPEN AI. (SUBSTITUA O "SuaKeyOpenAi" PELA SUA KEY).
 
+### O QUE FAZER DEPOIS:
+
+- Após treinar sua IA, você reebera um id semelhante a esse: "davinci:ft-personal-2023-01-29-07-4***"
+- Você pode adicionar ao codigo da sua ia dessas forma:
+
+ response = openai.Completion.create(
+        engine="davinci:ft-personal-2023-01-29-07-4***",
+        prompt="PROMPT_AQUI,
+        max_tokens=150,
+        temperature=0.9,
+        top_p=1,
+        frequency_penalty=1,
+        presence_penalty=0.6,
+    )
+    
+
+
