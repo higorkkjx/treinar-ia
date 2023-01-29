@@ -16,3 +16,9 @@ Convertar chats em txt do whatsapp para jsonl, para treinar sua inteligencia art
 
 - Salve esse txt no arquivo chat.txt
 - Rode usando: node convert.js
+
+### Treinando a IA GPT:
+
+- Apos rodar o convert.js, você ira obter o arquivo result.jsonl;
+- Faça o upload desse arquivo para esse colab: https://colab.research.google.com/drive/17heBVy6xlGcx2JfycoKUBeZ8SJ1Wot2Q?usp=sharing
+
