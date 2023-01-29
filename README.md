@@ -26,7 +26,7 @@ Convertar chats em txt do whatsapp para jsonl, para treinar sua inteligencia art
 
 ### O QUE FAZER DEPOIS:
 
-- Após treinar sua IA, você reebera um id semelhante a esse: "davinci:ft-personal-2023-01-29-07-4***"
+- Após treinar sua IA, você recebera um id semelhante a esse: "davinci:ft-personal-2023-01-29-07-4***"
 - Você pode adicionar ao codigo da sua ia dessas forma:
 
  response = openai.Completion.create(
