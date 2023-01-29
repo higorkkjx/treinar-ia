@@ -21,4 +21,6 @@ Convertar chats em txt do whatsapp para jsonl, para treinar sua inteligencia art
 
 - Apos rodar o convert.js, você ira obter o arquivo result.jsonl;
 - Faça o upload desse arquivo para esse colab: https://colab.research.google.com/drive/17heBVy6xlGcx2JfycoKUBeZ8SJ1Wot2Q?usp=sharing
+- Execute os comandos que estao na colab, em ordem, se tudo correr bem, a openai ira estar treinando a ia, com base no chat fornecido!
+- NÃO ESQUEÇA DE FORNECER A SUA APIKEY DA OPEN AI. (SUBSTITUA O "SuaKeyOpenAi" PELA SUA KEY).
 
