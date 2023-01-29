@@ -1,2 +1,2 @@
 # treinar-ia
-Treine a sua inteligencia artificial com base em chats do whatsapp! 
+Convertar chats em txt do whatsapp para jsonl, para treinar sua inteligencia artificial GPT!
